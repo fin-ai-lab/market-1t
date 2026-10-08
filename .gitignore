@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environments and tools
+.venv/
+.env
+.pytest_cache/
+.ruff_cache/
+
+# Data produced by the pipeline
+/data/
